@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.zent.cash/blog</id>
+    <title>Zent Cash Docs Blog</title>
+    <updated>2025-02-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.zent.cash/blog"/>
+    <subtitle>Zent Cash Docs Blog</subtitle>
+    <icon>https://docs.zent.cash/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Second Blog Post]]></title>
+        <id>https://docs.zent.cash/blog/Second Blog Post</id>
+        <link href="https://docs.zent.cash/blog/Second Blog Post"/>
+        <updated>2025-02-11T00:00:00.000Z</updated>
+        <author>
+            <name>Zent Cash Developers</name>
+        </author>
+        <category label="development" term="development"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://docs.zent.cash/blog/First Blog Post</id>
+        <link href="https://docs.zent.cash/blog/First Blog Post"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <author>
+            <name>Zent Cash Developers</name>
+        </author>
+        <category label="development" term="development"/>
+    </entry>
+</feed>

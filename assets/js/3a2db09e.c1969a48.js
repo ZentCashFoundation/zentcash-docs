@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzentcash_docs=self.webpackChunkzentcash_docs||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"development","permalink":"/blog/tags/development","description":"Development category","count":2}]}')}}]);

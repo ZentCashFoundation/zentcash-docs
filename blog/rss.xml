@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>Zent Cash Docs Blog</title>
+        <link>https://docs.zent.cash/blog</link>
+        <description>Zent Cash Docs Blog</description>
+        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Second Blog Post]]></title>
+            <link>https://docs.zent.cash/blog/Second Blog Post</link>
+            <guid>https://docs.zent.cash/blog/Second Blog Post</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <category>development</category>
+        </item>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://docs.zent.cash/blog/First Blog Post</link>
+            <guid>https://docs.zent.cash/blog/First Blog Post</guid>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+            <category>development</category>
+        </item>
+    </channel>
+</rss>
