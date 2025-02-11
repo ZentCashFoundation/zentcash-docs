@@ -1,0 +1,8 @@
+zentcashdevelopers:
+  name: Zent Cash Developers
+  title: Zent Cash Developers
+  image_url: https://raw.githubusercontent.com/ZentCashFoundation/brand/refs/heads/master/logo/icon/zentcash_icon_color.png
+  page:
+    permalink: '/all-zent-cash-developers-articles'
+  socials:
+    github: ZentCashDevelopers
