@@ -28,7 +28,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/ZentCashFoundation/zentcash-docs',
+            'https://github.com/ZentCashFoundation/zentcash-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -38,7 +38,7 @@ const config = {
           },
 
           editUrl:
-            'https://github.com/ZentCashFoundation/zentcash-docs',
+            'https://github.com/ZentCashFoundation/zentcash-docs/tree/main/',
           
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -119,7 +119,7 @@ const config = {
               },
               {
                 label: 'Mine',
-                to: '/docs/Mine/overview',
+                to: '/docs/mine/mining',
               },
               {
                 label: 'Build',
