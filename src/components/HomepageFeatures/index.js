@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: <a href="/docs/Learn/About-Zent-Cash">Learn</a>,
+    title: <a href="/docs/learn/about-zent-cash">Learn</a>,
     Svg: require('@site/static/img/undraw_docs.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <a href="/docs/mine/overview">Mine</a>,
+    title: <a href="/docs/mine/mining">Mine</a>,
     Svg: require('@site/static/img/undraw_mining.svg').default,
     description: (
       <>
@@ -40,7 +40,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <a href="/docs/exchange/overview">Exchange</a>,
+    title: <a href="/docs/exchange/exchanges">Exchange</a>,
     Svg: require('@site/static/img/undraw_money.svg').default,
     description: (
       <>

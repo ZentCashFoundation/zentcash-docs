@@ -1,5 +1,6 @@
 ---
 title: Timeline
+sidebar_position: 4
 ---
 
 This is a timeline dedicated to important dates in the history of Zent Cash.

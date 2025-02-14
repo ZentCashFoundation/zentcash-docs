@@ -9,22 +9,23 @@ One of Zent Cash main goals is to make things as simple and as accessible as pos
 
 Zent Cash code is forked from the Bytecoin code, and it has majorly the same privacy features you'll find in Monero and Aeon. Every transaction is private, by default.
 
-Some of the main features of Zent Cash include:
+![Zent-Cash-Working](@site/static/img/zentcash_logo.png)
 
-- On-chain privacy
+### Some of the main features of Zent Cash include:
 
-- Only two decimal places
+    - **On-chain privacy.** 
 
-- Fast transactions
-
-- User-centric developers
-
-- Easy to mine
-
-- Easy to use
-
-- Amazing community
-
-- Send to anyone, around the world
-
+    - **Fast transactions.**
+    
+    - **User-centric developers.** 
+    
+    - **Easy to mine.** 
+    
+    - **Easy to use.** 
+    
+    - **Amazing community.**
+    
+    - **Send to anyone, around the world.** 
+    
+    - **Only two decimal places.** 
 

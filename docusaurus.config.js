@@ -111,11 +111,11 @@ const config = {
             items: [
               {
                 label: 'Learn',
-                to: '/docs/Learn/About-Zent-Cash',
+                to: '/docs/learn/about-zent-cash',
               },
               {
                 label: 'Use',
-                to: '/docs/Use/overview',
+                to: '/docs/use/overview',
               },
               {
                 label: 'Mine',
@@ -123,11 +123,11 @@ const config = {
               },
               {
                 label: 'Build',
-                to: '/docs/Build/overview',
+                to: '/docs/build/overview',
               },
               {
                 label: 'Exchanges',
-                to: '/docs/Exchange/overview',
+                to: '/docs/exchange/exchanges',
               },
             ],
           },
