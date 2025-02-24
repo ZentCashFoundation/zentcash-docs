@@ -1,0 +1,8 @@
+{
+  "label": "Daemon API",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This section contains the Daemon API documentation, including the HTTP-RPC and JSON-RPC methods."
+  }
+}

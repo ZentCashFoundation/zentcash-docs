@@ -41,11 +41,11 @@ unzip ZentCash-...-linux.zip
 
 Running `Zentd` will start the *Zentd* network daemon, which will connect to the network and begin downloading and verifying the Zent Cash blockchain.  
 
-Because the blockchain is constantly growing, the file size always increases (the blockchain is currently over 35 GB), and *Zentd must verify every block*, which is both CPU and disk intensive. An SSD with at least this much free disk space is recommended, unless you plan to use [remote nodes](Using-Remote-Nodes). 
+Because the blockchain is constantly growing, the file size always increases (the blockchain is currently over 35 GB), and *Zentd must verify every block*, which is both CPU and disk intensive. An SSD with at least this much free disk space is recommended, unless you plan to use [remote nodes](/docs/use/wallets-guides/using-remote-nodes). 
 
 ### Using Checkpoints
 
-In **versions 1.14.7+** you can sync a fresh chain from block 0 much quicker by using checkpoints. Follow [this guide](Using-Checkpoints) to learn more.
+In **versions 1.14.7+** you can sync a fresh chain from block 0 much quicker by using checkpoints. Follow [this guide](/docs/use/using-checkpoints) to learn more.
 
 ### Windows
 

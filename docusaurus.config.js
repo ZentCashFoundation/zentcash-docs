@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'Use',
-                to: '/docs/use/overview',
+                to: '/docs/use/getting-started',
               },
               {
                 label: 'Mine',
@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'Build',
-                to: '/docs/build/overview',
+                to: '/docs/build/building-with-zent-cash',
               },
               {
                 label: 'Exchanges',

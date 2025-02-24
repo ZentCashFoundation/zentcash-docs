@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <a href="/docs/use/overview">Use</a>,
+    title: <a href="/docs/use/getting-started">Use</a>,
     Svg: require('@site/static/img/undraw_use.svg').default,
     description: (
       <>
@@ -31,7 +31,7 @@ const FeatureList = [
     ),
   },
   {
-    title: <a href="/docs/build/overview">Build</a>,
+    title: <a href="/docs/build/building-with-zent-cash">Build</a>,
     Svg: require('@site/static/img/undraw_build.svg').default,
     description: (
       <>
